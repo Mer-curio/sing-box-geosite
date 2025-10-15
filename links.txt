@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt
 https://kelee.one/Tool/Clash/Rule/AI.yaml
-https://cf-workers-raw-cookie.pages.dev/ProxyResource/main/Rule/Clash/Emby.yaml?token=cpdd123123
+https://raw.githubusercontent.com/Mer-curio/Proxy/main/Rule/Clash/Emby.yaml
 https://rule.kelee.one/Clash/Microsoft.yaml
 https://rule.kelee.one/Clash/Google.yaml
 https://rule.kelee.one/Clash/YouTube.yaml

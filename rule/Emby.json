@@ -1,4 +1,84 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "audio.poloemby.xyz",
+        "audiobook.mefun.org",
+        "beebi.org",
+        "book.hsu.life",
+        "bps8m.onyra.cc",
+        "cctv.paoluma.de",
+        "cf.5msky.com",
+        "cflocal.xxlb.net",
+        "ciallo.party",
+        "diaojinping.de",
+        "edge.staryuki.me",
+        "emby.191920.xyz",
+        "emby.cn2gias.uk",
+        "emby.heisi.org",
+        "emby.ifvip.vip",
+        "emby.jingzhe.pro",
+        "emby.kongcheng666.dpdns.org",
+        "emby.oceancloud.asia",
+        "emby.younoyes.com",
+        "emby.yunti.online",
+        "emby.zn.al",
+        "emby1.123456789.lol",
+        "emby3.mcjoker.xyz",
+        "embyplus.org",
+        "emos.lol",
+        "emusica.91bp.us.kg",
+        "free.28.al",
+        "fworks-emby.webn.cc",
+        "gm.yezi.my",
+        "gy.meowfly.de",
+        "kessoku-bando.biliblili.uk",
+        "kfc.v50.su",
+        "lite.cn2gias.uk",
+        "lite.saturdayvideo.top",
+        "m.mobaiemby.site",
+        "music.makifx.com",
+        "nsfw.oceancloud.asia",
+        "pieclip.okbap.com",
+        "playz.mjji.de",
+        "plumber.nezhasu.com",
+        "pornemby.com",
+        "public.shrekmedia.org",
+        "shouer.910427.xyz",
+        "tufei.de",
+        "us.nanflix.net",
+        "vip.nangua.de",
+        "yepfast.emby.moe",
+        "yueer.aiinyue.com",
+        "zoxfree.3767483.xyz"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1024.name",
+        "aliz.work",
+        "auroramedia.vip",
+        "doven.tv",
+        "emby.my",
+        "feiniu.lol",
+        "hohai.eu.org",
+        "itsmyduty.top",
+        "mebimmer.de",
+        "rjf37.com",
+        "sfcj.org",
+        "staryuki.com",
+        "tanhuatv.site",
+        "ucloudhost.top",
+        "vfing.de",
+        "yixia.io",
+        "zox.show"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "167.235.118.41/32"
+      ]
+    }
+  ],
   "version": 2
 }
